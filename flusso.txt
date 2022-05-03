@@ -1,0 +1,54 @@
+2.Aprire un pacchetto di figurine
+Ce l'ho, mi manca!
+Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell'album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici! 
+
+SE( not sabato)
+    finchè (ho pacchetti)
+        - Apri un pacchetto 
+            - Sfilo le figurine
+        finchè (ho figurine in mano)
+            - guardo una figurina
+            - guardo il numero
+            - controllo lo spazio corrsipettivo sull' album
+            Se (manca)
+                - attacco la figurina 
+                    - tolgo la pellicola
+                    - la posiziono correttamente nel suo spazio
+                    - applico pressione per farla aderire
+                    - butto la pellicola, nell' apposito bidone (w la raccolta differenziata)
+            Altrimenti //celoh
+                - Lo aggiungo al mazzetto celoh per gli scambi
+Altrimenti //Is Sabato
+    - organizzazione grande evento scambio
+        - chiamare amichetti 
+            SE (hanno mazzetti celoh)
+                -   invito per grande evento
+            Altrimenti 
+                -   convico a comprare i pacchetti per sabato prossimo
+    - mi preparo per il grande evento
+        - scrivo una lista delle carte manca
+        - prendo i pacchetti 
+        - li metto nello zaino
+        - esco di casa
+        - mi dirigo al grande evento
+    - aspetto gli amichetti
+        Se (manca qualcuno)
+            - aspettiamo ancora
+        Altrimenti  
+            - avviamo il grande evento
+    Finchè (ho carte nel mazzetto celoh and ho amichetti con i quali non ho effettuato scambi)
+        - Per ogni amichetto
+            - posso proporre scambi all amichetto
+                PER OGNI FIGURINA DEL MAZZETTO CELOH
+                    SE(c'è nella lista manca dell' amichetto AND l' amichetto ha nel suo mazzetto celoh una carta che c'è nella mia lista manca)
+                        - avviene lo scambio
+                        - aggiorno la lista delle carte manca
+                    Altrimenti
+                        - passo alla prossima figurina
+            SE (non ho più figurine OR amichetti con cui scambiare)
+                - mi dirigo verso casa
+            Altrimenti
+                - continuo lo scambio
+    - torno a casa
+    - attacco le figurine scambiate con cura, precisione e accuratezza (come da riga 15)
